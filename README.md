@@ -1,1 +1,1 @@
-# drone-sayfasi
+# bootstrap kullanarak yaptığım ilk ödev sitesi
